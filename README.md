@@ -1,4 +1,4 @@
 # Demo-project
 This is my first Git Repository
 <br>
-Author- Soumya Kanti Upadhyay
+Author- Soumya Kanti Upadhyay(SKU)
